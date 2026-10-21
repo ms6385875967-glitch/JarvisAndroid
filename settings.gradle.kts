@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "JarvisAndroid"
+rootProject.name = "Vaani"
 include(":app")
